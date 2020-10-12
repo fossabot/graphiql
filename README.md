@@ -4,6 +4,7 @@ GraphiQL
 */ˈɡrafək(ə)l/* A graphical interactive in-browser GraphQL IDE. [Try the live demo](http://graphql.org/swapi-graphql).
 
 [![Build Status](https://travis-ci.org/graphql/graphiql.svg?branch=master)](https://travis-ci.org/graphql/graphiql)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffti-technology%2Fgraphiql.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffti-technology%2Fgraphiql?ref=badge_shield)
 
 [![](resources/graphiql.png)](http://graphql.org/swapi-graphql)
 
@@ -341,3 +342,7 @@ fragment HumanFragment on Human {
 ```
 
 Read more from [GraphQL Fragment Specification](http://facebook.github.io/graphql/#sec-Language.Fragments).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffti-technology%2Fgraphiql.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffti-technology%2Fgraphiql?ref=badge_large)
